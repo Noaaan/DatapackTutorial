@@ -1,0 +1,2 @@
+# DatapackTutorial
+An example datapack
